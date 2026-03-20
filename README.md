@@ -1,4 +1,4 @@
-**Project: Operational Risk Analytics & Data Cleansing Pipeline**
+**Project: Data Analytics & Statistical Testing**
 
 **1. Executive Summary**
 
